@@ -1,7 +1,7 @@
 
-### Getting and cleaning aasignment
+# Getting and cleaning aasignment
 ## Author: Shreya Indukuri
-# Date 10/04/2020
+### Date 10/04/2020
 ## Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
