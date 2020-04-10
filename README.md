@@ -17,7 +17,7 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/tidyData.txt "toRepo")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/ShreyaIndukuri/cleaning-getting/blob/master/tidyy.csv "todataset")
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/ShreyaIndukuri/cleaning-getting/blob/master/run_analysis.r "run_analysis.R")
 Github Repo | Repo |  [Repo Link](https://github.com/ShreyaIndukuri/cleaning-getting "Click to go to Repo")
 Cookbook | CodeBook.md |  [codebook Link](https://github.com/ShreyaIndukuri/cleaning-getting/blob/master/README.md "CodeBook.md")
