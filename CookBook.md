@@ -1,13 +1,7 @@
----
-title: "Getting and cleaning aasignment"
-author: "Shreya Indukuri"
-date: "10/04/2020"
-output:
-  word_document: default
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+
+### Getting and cleaning aasignment
+## Author: Shreya Indukuri
+# Date 10/04/2020
 ## Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
